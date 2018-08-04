@@ -6,7 +6,7 @@
 - Framework CSS Bootstraps 4.
 - Usando Javascript Orientado a Objetos.
 
-Para desplejar esté projecto en tu computador:
+Para desplegar esté projecto en tu computador:
 
 [Genera una nueva OAuth App](https://github.com/settings/developers)
 
