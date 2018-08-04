@@ -12,7 +12,7 @@ Para desplegar esté projecto en tu computador:
 
 Abre un nuevo terminal.
 
-1. `git clone https://github.com/EndersonPro/clon-githud.git`.
+1. `git clone https://github.com/EndersonPro/clon-github.git`.
 
 2. `cd clon-github`
 
